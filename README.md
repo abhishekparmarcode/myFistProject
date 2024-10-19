@@ -1,2 +1,2 @@
-# myFistProject
-my fist project in github and this is github learning project
+##Tac Toc game
+#This is simple basic program and team project
